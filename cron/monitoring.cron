@@ -1,0 +1,1 @@
+*/5 * * * * cd /path/to/project && /path/to/venv/bin/python -m monitoring.monitor_job

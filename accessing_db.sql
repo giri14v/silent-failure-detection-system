@@ -1,0 +1,2 @@
+SELECT avg_confidence, low_confidence_rate
+FROM baseline_metrics;
